@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on Flutter<br>🤝 I’m looking for help with .NET<br>🌱 I’m currently learning .NET<br>💬 Ask me about Flutter 
+🔭 I’m currently working on Flutter Mobile Application👯 I’m looking to collaborate on Flutter<br>🤝 I’m looking for help with .NET<br>🌱 I’m currently learning .NET<br>💬 Ask me about Flutter 
 
 
 ## 🌐 Socials:
