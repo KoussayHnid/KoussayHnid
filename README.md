@@ -1,32 +1,18 @@
-# Welcome to My Professional Profile! 🌟  
+# Koussay Hnid
 
-Hi there! I'm Koussay Hnid, a passionate UI/UX designer dedicated to creating user-friendly and visually stunning digital experiences. This journey into design reflects my determination to enhance user satisfaction through intuitive and engaging layouts.  
+## About Me
 
-## What I Do  
-I specialize in crafting designs that balance aesthetics and functionality. My focus areas include:
-- User interface design
-- User experience research
-- Prototyping and wireframing
+I am focused on developing web and mobile applications as part of my journey in tech. I am committed to learning UI/UX design to enhance the user experience of my projects. 
 
-## What I'm Learning  
-As the design landscape evolves, I continuously seek to expand my skills. Currently, I'm diving into:
-- Advanced prototyping tools
-- User psychology in design
-- Accessibility in UI/UX
+## Skills
+- Web Development
+- Mobile Application Development
+- UI/UX Design
 
-## Design Tools I Use  
-Here's a rundown of the tools that fuel my creativity:
-- Figma ✏️
-- Adobe XD 🎨
-- Sketch 🖌️
-- InVision 🔄
+## Projects
 
-## GitHub Stats  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoussayHnid&show_icons=true&theme=radical)  
+Here are some projects I have been working on:
+- [Project 1: Web App](#)
+- [Project 2: Mobile App](#)
 
-## Connect with Me 🔗  
-- [LinkedIn](https://www.linkedin.com/in/koussayhnid)  
-- [Twitter](https://twitter.com/koussayhnid)  
-- [Personal Blog](https://koussayhnid.com)  
-
-Thank you for visiting my profile! Let's create something amazing together! 😊
+Feel free to connect with me on GitHub!
